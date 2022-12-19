@@ -13,7 +13,7 @@ I'm Japheth Kimeu, a GIS, Earth Observation and Machine Learning Engineer
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethkimeu&theme=radical)
 
 <!--
-**Kimeu-Jeff/Kimeu-Jeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**japhethkimeu/japheth_kimeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
