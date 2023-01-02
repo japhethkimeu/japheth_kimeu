@@ -4,7 +4,8 @@ I'm Japheth Kimeu, a GIS, Earth Observation and Machine Learning Engineer
 
 **Updates:**
 
-- 🔭 I’m currently working as a GIS and Remote Sensing Consultant at **Food and Agriculture Organization of the United Nations**
+- 🌱 I’m currently learning React JS
+- 🔭 I’m working as a GIS and Remote Sensing Consultant at **Food and Agriculture Organization of the United Nations**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning** projects in natural resource management
 - 📫 Reach me through kimeujeffer@gmail.com
 
